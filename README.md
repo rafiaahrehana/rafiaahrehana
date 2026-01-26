@@ -1,9 +1,9 @@
 <p align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raf-rehana/raf-rehana/a6be4a8ed5c0973dce463d2df13c9dd841f0e35e/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raf-rehana/raf-rehana/a6be4a8ed5c0973dce463d2df13c9dd841f0e35e/github-contribution-grid-snake-dark.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/raf-rehana/raf-rehana/a6be4a8ed5c0973dce463d2df13c9dd841f0e35e/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/raf-rehana/raf-rehana/blob/main/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/raf-rehana/raf-rehana/blob/main/snake.svg" />
+    <img alt="github-snake" src="https://github.com/raf-rehana/raf-rehana/blob/main/snake.svg" />
   </picture>
 
 </p>
