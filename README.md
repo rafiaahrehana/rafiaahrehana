@@ -8,7 +8,7 @@
 
 </p>
 
-<h1 align="center">Hi there! I'm Rafiaah Nur 👋</h1>
+<h1 align="center">Hi there! I'm Rafiaah Nur </h1>
 
 <p align="center">
 
@@ -19,11 +19,11 @@
 <p align="center">
 
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raf-rehana&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rafiaahrehana&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
-  <img src="https://img.shields.io/github/stars/raf-rehana?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+  <img src="https://img.shields.io/github/stars/rafiaahrehana?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 
-  <img src="https://img.shields.io/github/followers/raf-rehana?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/followers/rafiaahrehana?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 </p>
 
 </p>
@@ -59,7 +59,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### **Databases & DevOps**
-
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -76,7 +76,7 @@
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%"> <a href="https://github.com/raf-rehana/CREMS-Angular"> <img src="https://img.shields.io/badge/CREMS-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> </a> <br> <sub><b>Frontend Application</b></sub> </td> <td align="center" width="33%"> <a href="https://github.com/raf-rehana/CREMS-Spring-Boot"> <img src="https://img.shields.io/badge/CREMS-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> </a> <br> <sub><b>Backend API</b></sub> </td> <td align="center" width="33%"> <a href="https://raf-rehana.github.io/"> <img src="https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <br> <sub><b>My Portfolio</b></sub>
+<td align="center" width="33%"> <a href="https://github.com/rafiaahrehana/CREMS-Angular"> <img src="https://img.shields.io/badge/CREMS-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> </a> <br> <sub><b>Frontend Application</b></sub> </td> <td align="center" width="33%"> <a href="https://github.com/raf-rehana/CREMS-Spring-Boot"> <img src="https://img.shields.io/badge/CREMS-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> </a> <br> <sub><b>Backend API</b></sub> </td> <td align="center" width="33%"> <a href="https://raf-rehana.github.io/"> <img src="https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <br> <sub><b>My Portfolio</b></sub>
 </td>
 </tr>
 </table>
@@ -89,28 +89,28 @@
 
 ### **Github Status**
 
-  <img src="https://github-readme-stats.vercel.app/api?username=raf-rehana&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Rafiaah Nur's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafiaahrehana&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Rafiaah Nur's GitHub Stats"/>
   
   ### **Github Contribution**
-  <img src="https://nirzak-streak-stats.vercel.app/?user=raf-rehana&theme=radical&hide_border=true" alt="Rafiaah Nur's GitHub Streak"/> 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rafiaahrehana&theme=radical&hide_border=true" alt="Rafiaah Nur's GitHub Streak"/> 
     
   ### **Most Used Languages**
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raf-rehana&theme=radical&hide_border=true&layout=compact" alt="Rafiaah Nur's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiaahrehana&theme=radical&hide_border=true&layout=compact" alt="Rafiaah Nur's Top Languages"/>
   </div>
 </p>
 
 ## 🌐 Connect & Support
 
 <p align="center">
-  <a href="https://linkedin.com/in/raf-rehana" target="_blank">
+  <a href="https://linkedin.com/in/rafiaah-rehana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/raf-rehana" target="_blank">
+  <a href="https://github.com/rafiaahrehana" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://facebook.com/raf-rehana" target="_blank">
+  <a href="https://facebook.com/raf.rehana" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Connect-2E87FB?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   &nbsp;
