@@ -123,10 +123,13 @@ Alhamdulillah, every project represents consistency, dedication, and continuous 
 | Learning Area | Progress |
 |---------------|----------|
 | ☕ Java & Spring Boot | ██████████ 100% |
-| 🌐 Angular | █████████░ 90% |
-| 📱 Flutter | ████████░░ 80% |
-| 🤖 Android | ████████░░ 80% |
-| 🗄️ Hibernate & JWT | ███████░░░ 70% |
+| 🌐 Angular | ██████████ 100% |
+| 📱 Flutter | ██████████ 100% |
+| 🤖 Android | ██████████ 100% |
+| 🗄️ Hibernate & JWT | ██████████ 100% |
+| 🅱️ Bootstrap & jQuery | ██████████ 100% |
+| 🗃️ SQL & Databases | ██████████ 100% |
+| 🟢 Node.js | ███████░░░ 70% |
 | ☁️ Google Cloud & CI/CD | ████░░░░░░ 40% |
 
 </div>
@@ -178,33 +181,12 @@ A SaaS variant of the Zuhoo platform built with **Spring Boot, Angular, and Post
 
 <br/>
 
-### 🎓 IDB Final Project
-
-Capstone project for the IsDB-BISEW Full Stack Java Programming course, built with **Spring Boot and Angular**.
-
-[![Repo](https://img.shields.io/badge/GitHub-IDB--FINAL--PROJECT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafiaahrehana/IDB-FINAL-PROJECT)
-
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-<br/>
-
 ### 🌐 Portfolio Website
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafiaahrehana.github.io/)
 
 </div>
 
-<br/>
-
-### 📁 Other Projects
-
-| Repo | Description | Tech |
-|------|-------------|------|
-| [Spring-Project](https://github.com/rafiaahrehana/Spring-Project) | Angular frontend + Spring Boot backend | Java, Spring Boot, Angular |
-| [Angular-Project](https://github.com/rafiaahrehana/Angular-Project) | Angular practice project | TypeScript, Angular |
-| [Android-Project](https://github.com/rafiaahrehana/Android-Project) | Native Android app | Java, Android |
-| [Flutter-Project](https://github.com/rafiaahrehana/Flutter-Project) | Cross-platform Flutter app | Dart, Flutter |
 
 ## 📊 GitHub Analytics
 
