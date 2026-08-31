@@ -192,8 +192,6 @@ A SaaS variant of the Zuhoo platform built with **Spring Boot, Angular, and Post
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafiaahrehana&show_icons=true&theme=radical&hide_border=true&title_color=14B8A6&icon_color=14B8A6&text_color=FFFFFF&bg_color=0D1117" alt="Rafiaah Nur's GitHub Stats"/>
-
 <img src="https://streak-stats.demolab.com/?user=rafiaahrehana&theme=radical&hide_border=true&ring=14B8A6&fire=14B8A6&currStreakLabel=14B8A6&background=0D1117" alt="Rafiaah Nur's GitHub Streak"/>
 
 </div>
