@@ -59,6 +59,23 @@
 
 <br/>
 
+## 📚 Currently Learning
+
+<div align="center">
+
+| Learning Area | Progress |
+|---------------|----------|
+| ☕ Java & Spring Boot | ██████████ 100% |
+| 🌐 Angular | █████████░ 90% |
+| 📱 Flutter | ████████░░ 80% |
+| 🤖 Android | ████████░░ 80% |
+| 🗄️ Hibernate & JWT | ███████░░░ 70% |
+| ☁️ Google Cloud & CI/CD | ████░░░░░░ 40% |
+
+</div>
+
+<br/>
+
 ## 🌟 Featured Projects
 
 <div align="center">
