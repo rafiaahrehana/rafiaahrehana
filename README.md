@@ -44,7 +44,7 @@
 
 # 🎓 Certifications
 
-✅ **IsDB-BISEW IT Scholarship Training — Java**
+✅ **IsDB-BISEW IT Scholarship Training (JEE-69) — Full Stack Java Programming**
 
 ---
 
@@ -84,6 +84,58 @@
 
 ---
 
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafiaahrehana&show_icons=true&theme=github_dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=rafiaahrehana&theme=github-dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=0D1117" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafiaahrehana&theme=github_dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafiaahrehana&theme=github_dark" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafiaahrehana&theme=github_dark" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafiaahrehana&theme=github_dark" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiaahrehana&theme=github-dark&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rafiaahrehana&theme=darkhub&no-frame=true&margin-w=12&margin-h=12&title=Stars,Followers,Repositories,Commits,Experience"/>
+
+</div>
+
+---
+
 # 🌟 Featured Project
 
 <div align="center">
@@ -115,6 +167,22 @@ Native companion app with Account, Attendance, Auth, Catalog, CRM, Dashboard, Di
 
 ---
 
+# 📚 Currently Learning
+
+<div align="center">
+
+| Learning Area | Progress |
+|---------------|----------|
+| ☕ Java & Spring Boot | ██████████ 100% |
+| 🌐 Angular | █████████░ 90% |
+| 📱 Flutter | ████████░░ 80% |
+| 🤖 Android (Java) | ████████░░ 80% |
+| ☁️ Google Cloud & CI/CD | ████░░░░░░ 40% |
+
+</div>
+
+---
+
 # 🎯 2026 Goals Insha-Allah
 
 - 🚀 Deepen expertise in **Spring Boot** and microservices architecture
@@ -124,6 +192,20 @@ Native companion app with Account, Attendance, Auth, Catalog, CRM, Dashboard, Di
 - 🔐 Strengthen backend security practices with **JWT** and **Hibernate**
 - 🌱 Contribute to open-source projects
 - 💼 Grow as a professional Full Stack Developer
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rafiaahrehana/rafiaahrehana/blob/main/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rafiaahrehana/rafiaahrehana/blob/main/snake.svg" />
+  <img alt="github-snake" src="https://github.com/rafiaahrehana/rafiaahrehana/blob/main/snake.svg" />
+</picture>
+
+</div>
 
 ---
 
