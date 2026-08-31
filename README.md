@@ -20,15 +20,15 @@
   <img src="https://img.shields.io/github/followers/rafiaahrehana?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 </p>
 
-## 🧠 About Me
+## About Me
 
-- 💻 I build full-stack applications using **Java, Spring Boot, Node.js, and Angular**
-- 📱 I also develop mobile apps with **Flutter** and **Android**
-- 🗄️ Comfortable working with **MySQL, PostgreSQL, SQL Server, Oracle, and Firebase**
-- ☁️ Experience with **Google Cloud** and **GitHub Actions** for CI/CD
-- 🔐 Use **Hibernate** and **JWT** for backend persistence and authentication
-- 🌱 Always exploring better ways to write clean, scalable, and secure code
-- 🤝 Open to collaboration on meaningful and challenging projects
+- I build full-stack applications using **Java, Spring Boot, Node.js, and Angular**
+- I also develop mobile apps with **Flutter** and **Android**
+- Comfortable working with **MySQL, PostgreSQL, SQL Server, Oracle, and Firebase**
+- Experience with **Google Cloud** and **GitHub Actions** for CI/CD
+- Use **Hibernate** and **JWT** for backend persistence and authentication
+- Always exploring better ways to write clean, scalable, and secure code
+- Open to collaboration on meaningful and challenging projects
 
 ## 🛠️ Technology Stack
 
@@ -99,7 +99,7 @@ A full-stack business management platform covering **CRM, HRM, Finance, IT Asset
 
 ### **GitHub Contribution**
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=rafiaahrehana&theme=radical&hide_border=true" alt="Rafiaah Nur's GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=rafiaahrehana&theme=radical&hide_border=true" alt="Rafiaah Nur's GitHub Streak"/>
 
 ### **Most Used Languages**
 
