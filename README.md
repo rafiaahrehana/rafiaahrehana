@@ -93,17 +93,9 @@ A full-stack business management platform covering **CRM, HRM, Finance, IT Asset
 
 <div align="center">
 
-### **GitHub Status**
-
-<img src="https://github-readme-stats.vercel.app/api?username=rafiaahrehana&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Rafiaah Nur's GitHub Stats"/>
-
 ### **GitHub Contribution**
 
 <img src="https://streak-stats.demolab.com/?user=rafiaahrehana&theme=radical&hide_border=true" alt="Rafiaah Nur's GitHub Streak"/>
-
-### **Most Used Languages**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiaahrehana&theme=radical&hide_border=true&layout=compact" alt="Rafiaah Nur's Top Languages"/>
 
 </div>
 
