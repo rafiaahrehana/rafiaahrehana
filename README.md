@@ -1,16 +1,14 @@
 
-<h1 align="center">Hi there! I'm Rafiaah Nur </h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=950&height=70&duration=4000&lines=Hi+👋,+I'm+Rafiaah+Nur+Rehana;Full+Stack+Developer;Spring+Boot+%7C+Node.js+%7C+Angular;Flutter+%7C+Android;Always+Learning+New+Technologies&color=14B8A6" />
+
+</div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8C%B1+Spring+Boot+%7C+Node.js+%7C+Angular;%E2%9A%A1+Flutter+%7C+Android;%F0%9F%9A%80+Always+Learning+New+Technologies" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafiaahrehana&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/stars/rafiaahrehana?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
-  <img src="https://img.shields.io/github/followers/rafiaahrehana?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=rafiaahrehana&label=Profile%20views&color=C0C0C0&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/rafiaahrehana?label=Stars&style=for-the-badge&color=14B8A6" alt="stars" />
+  <img src="https://img.shields.io/github/followers/rafiaahrehana?label=Followers&style=for-the-badge&color=C0C0C0" alt="followers" />
 </p>
 
 ## About Me
