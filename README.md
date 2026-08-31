@@ -1,32 +1,19 @@
-<div align="center">
+
+<h1 align="center">Hi there! I'm Rafiaah Nur </h1>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rafiaahrehana/rafiaahrehana/blob/main/snake.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rafiaahrehana/rafiaahrehana/blob/main/snake.svg" />
-    <img alt="github-snake" src="https://github.com/rafiaahrehana/rafiaahrehana/blob/main/snake.svg" />
-  </picture>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%8C%B1+Spring+Boot+%7C+Node.js+%7C+Angular;%E2%9A%A1+Flutter+%7C+Android;%F0%9F%9A%80+Always+Learning+New+Technologies" alt="Typing SVG" />
+  </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=42&center=true&vCenter=true&width=950&height=70&duration=4000&lines=Hi+👋,+I'm+Rafiaah+Nur;Full+Stack+Developer;Spring+Boot+%7C+Node.js+%7C+Angular;Flutter+%7C+Android;Always+Learning+New+Technologies&color=FFD700" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafiaahrehana&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/rafiaahrehana?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+  <img src="https://img.shields.io/github/followers/rafiaahrehana?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+</p>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=rafiaahrehana&label=Profile%20Views&color=FFD700&style=for-the-badge" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Software%20Engineer-FFD700?style=for-the-badge&logo=github&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-FFD700?style=for-the-badge&logo=spring&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Mobile%20%26%20Web-FFD700?style=for-the-badge&logo=flutter&logoColor=black" />
-
-</div>
-
----
-
-# 👩‍💻 About Me
+## About Me
 
 - I build full-stack applications using **Java, Spring Boot, Node.js, and Angular**
 - I also develop mobile apps with **Flutter** and **Android**
@@ -36,19 +23,7 @@
 - Always exploring better ways to write clean, scalable, and secure code
 - Open to collaboration on meaningful and challenging projects
 
-🔗 **LinkedIn:** [linkedin.com/in/raf-rehana](https://linkedin.com/in/raf-rehana)
-💻 **GitHub:** [github.com/rafiaahrehana](https://github.com/rafiaahrehana)
-🌐 **Portfolio:** [rafiaahrehana.github.io](https://rafiaahrehana.github.io/)
-
----
-
-# 🎓 Certifications
-
-✅ **IsDB-BISEW IT Scholarship Training (JEE-69) — Full Stack Java Programming**
-
----
-
-# 🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 <div align="center">
 
@@ -82,67 +57,15 @@
 
 </div>
 
----
+<br/>
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rafiaahrehana&show_icons=true&theme=github_dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=rafiaahrehana&theme=github-dark&hide_border=true&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&background=0D1117" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafiaahrehana&theme=github_dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafiaahrehana&theme=github_dark" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafiaahrehana&theme=github_dark" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafiaahrehana&theme=github_dark" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiaahrehana&theme=github-dark&bg_color=0d1117&color=FFD700&line=FFD700&point=ffffff&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rafiaahrehana&theme=darkhub&no-frame=true&margin-w=12&margin-h=12&title=Stars,Followers,Repositories,Commits,Experience"/>
-
-</div>
-
----
-
-# 🌟 Featured Project
+## 🌟 Featured Projects
 
 <div align="center">
 
 ### 🏢 Zuhoo CMS
 
-A full-stack business management platform covering **CRM, HRM, Finance, IT Asset Management, and Service Desk** — built across a Spring Boot backend with Angular, Flutter, and Android clients.
+A full-stack business management platform covering **CRM, HRM, Finance, IT Asset Management, Service Desk, and AI-assisted tools** — built across a Spring Boot backend with Angular, Flutter, and Android clients.
 
 [![Repo](https://img.shields.io/badge/GitHub-Project--ZuhooCMS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafiaahrehana/Project-ZuhooCMS)
 
@@ -151,93 +74,32 @@ A full-stack business management platform covering **CRM, HRM, Finance, IT Asset
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+<br/>
+
+### 🌐 Portfolio Website
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafiaahrehana.github.io/)
+
 </div>
 
-**Backend — Spring Boot**
-Modular architecture with dedicated modules for Auth (JWT, roles, Google login), Company, CRM, Dashboard, Finance, HRM, IT Asset Management (ITAM), Search, Service Desk, Support, Website, and AI-assisted tooling.
-
-**Web — Angular**
-Feature modules for Account, Attendance (biometric check-in/out, shifts, timesheets), Auth, Careers, Client Portal, CRM, Dashboard, Finance, HRM, ITAM, Notifications, Platform Admin, Roles & Permissions, Service Desk, Subscription, and Support.
-
-**Mobile — Flutter**
-Cross-platform app covering Accounting, Attendance, Auth, Biometric, Budgets, Catalogue, CRM, Dashboard, Directory, Finance, HR Policy, ITAM, Knowledge Base, Leave, Payroll & Payslips, Performance, Portal, Profile, Receivables/Payables, Recruitment, Reports, Salary, and Support.
-
-**Mobile — Android (Java)**
-Native companion app with Account, Attendance, Auth, Catalog, CRM, Dashboard, Directory, Expense, Invoice, Knowledge Base, Leave, Noticeboard, Notifications, Overview, Payment, Payroll, Service Requests, Support, Timesheet, and Wallet.
-
----
-
-# 📚 Currently Learning
+## 📈 My GitHub Performance
 
 <div align="center">
 
-| Learning Area | Progress |
-|---------------|----------|
-| ☕ Java & Spring Boot | ██████████ 100% |
-| 🌐 Angular | █████████░ 90% |
-| 📱 Flutter | ████████░░ 80% |
-| 🤖 Android (Java) | ████████░░ 80% |
-| ☁️ Google Cloud & CI/CD | ████░░░░░░ 40% |
+### **GitHub Contribution**
+
+<img src="https://streak-stats.demolab.com/?user=rafiaahrehana&theme=radical&hide_border=true" alt="Rafiaah Nur's GitHub Streak"/>
 
 </div>
 
----
+## 🌐 Connect with Me
 
-# 🎯 2026 Goals Insha-Allah
-
-- 🚀 Deepen expertise in **Spring Boot** and microservices architecture
-- 🌐 Master advanced **Angular** patterns and state management
-- 📱 Build more production-ready apps with **Flutter** and **Android**
-- ☁️ Grow hands-on experience with **Google Cloud** and CI/CD pipelines
-- 🔐 Strengthen backend security practices with **JWT** and **Hibernate**
-- 🌱 Contribute to open-source projects
-- 💼 Grow as a professional Full Stack Developer
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rafiaahrehana/rafiaahrehana/blob/main/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rafiaahrehana/rafiaahrehana/blob/main/snake.svg" />
-  <img alt="github-snake" src="https://github.com/rafiaahrehana/rafiaahrehana/blob/main/snake.svg" />
-</picture>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/raf-rehana">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
-</a>
-
-<a href="https://github.com/rafiaahrehana">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
-</a>
-
-<a href="https://rafiaahrehana.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=FFD700"/>
-</a>
-
-</div>
-
----
-
-# ✨ Quote
-
-<div align="center">
-
-### "Building solutions that matter, one commit at a time."
-
-<br>
-
-**Rafiaah Nur**
-**Full Stack Developer | Mobile & Web**
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/raf-rehana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/rafiaahrehana" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
