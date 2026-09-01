@@ -183,7 +183,11 @@ A SaaS variant of the Zuhoo platform built with **Spring Boot, Angular, and Post
 
 ### 🌐 Portfolio Website
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafiaahrehana.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rafiaah-portfolio.vercel.app/)
+
+<a href="https://rafiaah-portfolio.vercel.app/">
+  <img width="60%" src="https://api.microlink.io/?url=https%3A%2F%2Frafiaah-portfolio.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url" alt="Portfolio preview" />
+</a>
 
 </div>
 
